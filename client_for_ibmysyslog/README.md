@@ -3,7 +3,7 @@
 `mysyslog-client` - это тестовое приложение на языке C, которое использует библиотеку `libmysyslog` для записи сообщений в журнал с различными параметрами. Пользователь может указать текст сообщения, уровень журналирования, драйвер вывода, формат и путь к файлу журнала через аргументы командной строки.
 
 ## Установка
-1. Клонируем репозиторий: `git clone https://github.com/MaksimAnikeev/mysyslog`
+1. Клонируем репозиторий: `git clone https://github.com/Ahrimat/mysyslog`
 2. Переходим в каталог mysyslog: `cd mysyslog`
 3. Собираем приложение mysyslog-client: `gcc mysyslog-client.c -o mysyslog-client -lmysyslog`
 4. Устанавливаем mysyslog-client в систему: `sudo cp mysyslog-client /usr/local/bin/`
