@@ -4,7 +4,7 @@ MySyslog - это daemon для вывода данных в журнал с р�
 
 ## Установка
 1.Клонируем репозиторий:
- https://github.com/MaksimAnikeev/mysyslog
+ https://github.com/Ahrimat/mysyslog
   
 2. Переходим в каталог mysyslog:
   `cd mysyslog`
